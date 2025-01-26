@@ -5,12 +5,7 @@
 
 - 🌱 Şu anda **C++** öğreniyorum
 
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/cerensultancetin" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cerensultancetin" height="30" width="40" />
-  </a>
-</p>
+
 
 <h3 align="left">Diller ve Araçlar:</h3>
 <p align="left">
