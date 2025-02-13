@@ -3,7 +3,7 @@
 
 - 🔭 Şu anda [Rocket Interface](https://github.com/CerenSultanCETIN/RocketInterface13.git) üzerinde çalışıyorum
 
-- 🌱 Şu anda **C++** öğreniyorum
+- 🌱 Şu anda **C++ ve C#** öğreniyorum
 
 
 
