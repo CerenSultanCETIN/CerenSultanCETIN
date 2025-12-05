@@ -1,9 +1,9 @@
 <h1 align="center">Merhaba, ben Ceren👋</h1>
 <h3 align="center">Türkiye'den tutkulu bir yazılım geliştiricisi</h3>
 
-- 🔭 Şu anda [Rocket Interface](https://github.com/CerenSultanCETIN/RocketInterface13.git) üzerinde çalışıyorum
+- 🔭 Şu anda gömülü yazılım üzerinde çalışıyorum
 
-- 🌱 Şu anda **C++ ve C#** öğreniyorum
+- 🌱 Şu anda ** STM32 Nucleo-L4R5ZI-P** öğreniyorum
 
 
 
